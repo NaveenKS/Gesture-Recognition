@@ -25,4 +25,4 @@ Working:
 
 Use cases:
 1.Controlling any device by simple hand gestures.
-2.Control the operation of a software.For example, if vlc media player is considered, play,pause,stop or do any media player operaions just by simple hand gestures.  
+2.Control the operation of a software.For example, if vlc media player is considered, play,pause,stop or do any media player operaions just by simple hand gestures.
