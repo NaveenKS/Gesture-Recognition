@@ -1,6 +1,10 @@
 Gesture-Recognition
 ===================
-This project was done as a part of MIT media labs workshop held in India
+This project was done as a part of MIT media labs workshop held in India.
+
+Programming Language:
+
+Python
 
 Descrition:
 
