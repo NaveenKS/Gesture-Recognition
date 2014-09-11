@@ -1,10 +1,3 @@
-/* 
-Gesture recognition code 
-This is a python code save it as mit.py and compile it
-*/
-
-
-
 #!/usr/bin/python
 import serial
 import time
