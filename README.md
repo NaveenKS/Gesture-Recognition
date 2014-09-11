@@ -2,14 +2,9 @@ Gesture-Recognition
 ===================
 This project was done as a part of MIT media labs workshop held in India.
 
-Programming Language:
+Programming Language:Python
 
-Python
-
-Descrition:
-
-This is an application for controlling functionalities of a device or software by gesture recognition.
-
+Descrition:This is an application for controlling functionalities of a device or software by gesture recognition.
 
 Setup:
 
