@@ -25,8 +25,8 @@ Working:
 
 4.sensors are set to 1 or 0 based on some threshold reading.
 
-5.If a=1,b=1,c=1,d=1 -> perform operation A
-  If a=1,b=1,c=1,d=1 -> perform operation B
+5.If a=1,b=1,c=1,d=1 -> perform operation A,
+  If a=1,b=1,c=1,d=1 -> perform operation B,
   Like this different combinations are taken and accordingly specify operations are peformed.
 
 Use cases:
