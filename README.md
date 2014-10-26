@@ -1,12 +1,14 @@
-Gesture-Recognition
-===================
-This project was done as a part of MIT media labs workshop held in India.
+#Gesture Recognition
 
-Programming Language: Python
+#####This project was done as a part of MIT media labs workshop held in India.
 
-Description: This is an application for controlling functionalities of a device or software by gesture recognition.
+*Programming Language: Python*
 
-Setup:
+###Description: 
+
+This is an application for controlling functionalities of a device or software by gesture recognition.
+
+#####Setup:
 
 1.Get 4 sensors placed at  four corners of a square
 
@@ -14,7 +16,7 @@ Setup:
 
 3.Connect aurdino to laptop through usb
 
-Working:
+#####Working:
 
 1.If you are running on ubuntu the device will be detected in /dev/tty0
 
@@ -28,7 +30,7 @@ Working:
   If a=1,b=1,c=1,d=1 -> perform operation B,
   Like this different combinations are taken and accordingly specify operations are peformed.
 
-Use cases:
+#####Use cases:
 
 1.Controlling any device by simple hand gestures.
 
